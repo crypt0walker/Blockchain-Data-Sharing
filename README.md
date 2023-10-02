@@ -2,7 +2,7 @@ Blockchain data-sharing papers: [Notion主页](https://evergreen-heart-8aa.notio
 
 | Name                                                         | Topic | Tool | Abstract                                                     | Where | Year |
 | :----------------------------------------------------------- | ----- | ---- | ------------------------------------------------------------ | ----- | ---- |
-| [Blockchain-based decentralized data dissemination scheme in smart transportation](Blockchain-based decentralized data dissemination scheme in smart transportation) |       |      | 基于区块链实现了一套车联网的数据传播方案 利用PoS（Ouroboros变体）共识算法为基础，可连接群签名技术保护隐私。 |       | 2023 |
+| [Blockchain-based decentralized data dissemination scheme in smart transportation](https://www.sciencedirect.com/science/article/pii/S1383762122002855?casa_token=jcOApfYoXLcAAAAA:OKl_YAOqTSu4kCBRfHukNOBycbFhsHLFlzqMDccjqMpJbm8sYuqsoURgHjpmIs-vsRGVWSez) |       |      | 基于区块链实现了一套车联网的数据传播方案 利用PoS（Ouroboros变体）共识算法为基础，可连接群签名技术保护隐私。 |       | 2023 |
 |                                                              |       |      |                                                              |       |      |
 |                                                              |       |      |                                                              |       |      |
 |                                                              |       |      |                                                              |       |      |
