@@ -5,7 +5,7 @@ Blockchain Data Sharing Papers: [Notion主页](https://evergreen-heart-8aa.notio
 
 2023 - IEEE Transactions on Intelligent Transportation Systems
 
-Topics & Tools: Position Sharing, Maritime Transportation, Privacy Preserve, Merkle Commit, Zero Knowledge
+Topics & Tools: Position Sharing, Maritime Transportation, Privacy Preserve, Merkle Commit, Zero Knowledge;
 
 <details>
 
@@ -20,7 +20,7 @@ Data-driven applications play an important role in modern-time maritime transpor
 
 2023 - Information Sciences
 
-Topics & Tools: Data retrieval optimization, Bloom Filter
+Topics & Tools: Data retrieval optimization, Bloom Filter;
 
 <details>
 
@@ -36,6 +36,8 @@ Recent years have witnessed the development and adoption of blockchain technolog
 
 2023 -   World Wide Web Journal 
 
+Topics & Tools: Financial Credential, Commitment, Group signature;
+
 <details>
 
 <summary>Abstract</summary>
@@ -49,6 +51,8 @@ With the development of Internet finance, the real estate financial credentials 
 [Secure and Distributed IoT Data Storage in Clouds Based on Secret Sharing and Collaborative Blockchain](https://ieeexplore.ieee.org/abstract/document/9947313)
 
 2023 - IEEE/ACM Transactions on Networking
+
+Topics & Tools: Consensus optimization, Data retrieval optimization, IoT scenarios, Secret sharing;
 
 <details>
 
@@ -64,6 +68,8 @@ With the rapid development of 5G/6G, most Internet of Things (IoT) devices will 
 
 2023 - IEEE Transactions on Computers
 
+Topics & Tools: Data Trading, Privacy Preservation, Attribute-based anonymous credentials, zero-knowledge proof;
+
 <details>
 
 <summary>Abstract</summary>
@@ -77,6 +83,8 @@ In this article, we propose a blockchain-based fair and privacy-preserving data 
 [Blockchain-based decentralized data dissemination scheme in smart transportation](https://www.sciencedirect.com/science/article/pii/S1383762122002855?casa_token=mWgL_u5mVjEAAAAA:v7RLr8-e2ut6Ym1dc3fEHK16mBUJdvRBjgTNEkiUhQUMB54ryRzKpDsg8AJRJIIdd1NkuhH1)
 
 2023 -   Journal of Systems Architecture
+
+Topics & Tools: Consensus optimization, Internet of Vehicles, PoS, Group Signature;
 
 <details>
 
@@ -92,6 +100,8 @@ Data dissemination of safety messages in smart transportation allows vehicles to
 
 2023 - IEEE Transactions on Intelligent Transportation Systems
 
+Topics & Tools: Access Control, Edge Computing, Attribute-based Encryption;
+
 <details>
 
 <summary>Abstract</summary>
@@ -106,6 +116,8 @@ The dramatically growing trend of vehicles equipped with driving camera recorder
 
 2023 - IEEE Transaction on Mobile Computing
 
+Topics & Tools: Crowd-sensed Data Trading, Reliability Assessment, Homomorphic Encryption;
+
 <details>
 
 <summary>Abstract</summary>
@@ -119,6 +131,8 @@ Crowdsensed Data Trading (CDT) is a novel data trading paradigm, in which each d
 [ContractBox: Realizing accountable data sharing on the edge using a smallscale blockchain](https://www.sciencedirect.com/science/article/pii/S138912862300213X)
 
 2023 -   Computer Networks
+
+Topics & Tools: Trusted execution, Edge computing;
 
 <details>
 
@@ -136,6 +150,8 @@ We present ContractBox, a system that provides accountable and trusted data shar
 
 2023 - IEEE Transactions on Intelligent Transportation Systems
 
+Topics & Tools: Trust assessment, Data retrieval optimization, Routing optimization, Internet of Vehicles, Kademlia, Cuckoo filter;
+
 <details>
 
 <summary>Abstract</summary>
@@ -150,7 +166,7 @@ The Internet of vehicles (IoV) has a substantial impact on traffic efficiency im
 
 2022 - Journal of Systems Architecture
 
-
+Topics & Tools: Consensus optimization;
 
 <details>
 
@@ -162,11 +178,11 @@ Blockchain offers new ways to the data sharing-based collaboration among IoT dev
 
 ---
 
-[[LVBS: Lightweight vehicular blockchain for secure data sharing in disaster rescue](https://ieeexplore.ieee.org/abstract/document/9035635)](https://www.sciencedirect.com/science/article/pii/S1383762121002356?casa_token=UXeJlQLOiY0AAAAA:CXCNoOxdlxnRepk9aDhGPwlZJzB-Im9NXBTynvotj99pTYzge5REXeACt-wfvq7SZL18zfaK)
+[[LVBS: Lightweight vehicular blockchain for secure data sharing in disaster rescue](https://ieeexplore.ieee.org/abstract/document/9035635)]
 
 2022 -  IEEE Transactions on Dependable and Secure Computing
 
-
+Topics & Tools: Consensus optimization, Reinforcement learning;
 
 <details>
 
@@ -182,7 +198,7 @@ In disaster areas, a large amount of data (e.g., rescue commands, road damage, a
 
 2022 -   IEEE Journal on Selected Areas in Communications
 
-
+Topics & Tools: Updateable encryption, LESS, Zero-knowledge Proof;
 
 <details>
 
@@ -198,7 +214,7 @@ Future networks incorporate artificial intelligence to enable smart resource man
 
 2022 - World Wide Web
 
-
+Topics & Tools: Medical scenarios, Smart contracts;
 
 <details>
 
@@ -214,6 +230,8 @@ The healthcare industry faces serious problems with health data. Firstly, health
 
 2022 - IEEE Transactions on Computers
 
+Topics & Tools: Trust assessment, IoT, Zero trust security, Consensus algorithm;
+
 <details>
 
 <summary>Abstract</summary>
@@ -228,7 +246,7 @@ Internet-of-Things (IoT) are increasingly operating in the zero-trust environmen
 
 2022 - Journal of Systems Architecture
 
-
+Topics & Tools: Unauthorized access, Confidentiality attack, Attribute-based Signature;
 
 <details>
 
@@ -244,7 +262,7 @@ Secure data sharing deserves special attention in cloud computing since the oper
 
 2022 - IEEE Transactions on Intelligent Transportation Systems
 
-
+Topics & Tools: Trust evaluation, Consensus optimization, Medical scenarios, PoS;
 
 <details>
 
@@ -260,13 +278,13 @@ The large amount of driving data can help intelligent vehicles make decisions to
 
 2022 - Information Processing & Management
 
-
+Topics & Tools: 
 
 <details>
 
 <summary>Abstract</summary>
 
-Sharing government data is of great significance to social development, but insecure and inappropriate sharing may lead to [privacy breaches](https://www.sciencedirect.com/topics/computer-science/privacy-breach). Data sharing in consortium [blockchain](https://www.sciencedirect.com/topics/computer-science/blockchain) has provided a promising direction for efficient privacy preserving government data sharing. However, since government data is not owned by a single person or any government employers, it is hard to attribute participants’ responsibility for motivating data sharing behavior in [blockchain](https://www.sciencedirect.com/topics/computer-science/blockchain) systems. Furthermore, the scope and scale of government data to be shared among departments is unclear, as the purposes for retrieving shared data are dynamically changing. In order to solve these problems, we propose a Service-On-Chain (or simply, SOC) approach. The SOC approach can effectively identify different departments’ [data retrieving](https://www.sciencedirect.com/topics/computer-science/retrieving-data) requirements while efficiently sharing government data with trustworthiness in data content and controllability in data ownership. In particular, we utilize [smart contracts](https://www.sciencedirect.com/topics/computer-science/smart-contract) to provide an onchain service to define data sharing agreements between government departments, which can identify ambiguous [data retrieving](https://www.sciencedirect.com/topics/computer-science/retrieving-data) requirements and formalize the process logic. We apply the SOC approach to a real world scenario and demonstrate that the SOC approach provides a feasible solution for secure and efficient sharing of data among government departments.
+Sharing government data is of great significance to social development, but insecure and inappropriate sharing may lead to privacy breaches. Data sharing in consortium blockchain has provided a promising direction for efficient privacy preserving government data sharing. However, since government data is not owned by a single person or any government employers, it is hard to attribute participants’ responsibility for motivating data sharing behavior in blockchain systems. Furthermore, the scope and scale of government data to be shared among departments is unclear, as the purposes for retrieving shared data are dynamically changing. In order to solve these problems, we propose a Service-On-Chain (or simply, SOC) approach. The SOC approach can effectively identify different departments’ data retrieving requirements while efficiently sharing government data with trustworthiness in data content and controllability in data ownership. In particular, we utilize smart contracts to provide an onchain service to define data sharing agreements between government departments, which can identify ambiguous data retrieving requirements and formalize the process logic. We apply the SOC approach to a real world scenario and demonstrate that the SOC approach provides a feasible solution for secure and efficient sharing of data among government departments.
 
 </details>
 
@@ -276,7 +294,7 @@ Sharing government data is of great significance to social development, but inse
 
 2022 - Software: Practice and Experience
 
-
+Topics & Tools: Cloud environment, Ciphertext policy attribute-based encryption;
 
 <details>
 
@@ -292,7 +310,7 @@ The risk of sharing data in cloud computing has gathered increasing attention. A
 
 2022 - Software: Practice and Experience
 
-
+Topics & Tools: Incentive mechanism, Internet of Things;
 
 <details>
 
@@ -308,7 +326,7 @@ Next-generation wireless technology and machine-to-machine technology can provid
 
 2022 - IEEE Journal on Selected Areas in Communications
 
-
+Topics & Tools: Social platform, Access control, Privacy Preserving, Two-stage separable deep learning TSDL, Multi-owner propagation tree;
 
 <details>
 
@@ -324,7 +342,7 @@ The evolution of social media has led to a trend of posting daily photos on onli
 
 2022 - IEEE Journal on Selected Areas in Communications
 
-
+Topics & Tools: Expansion mechanism, Routing optimization, MPR multi-path routing, Homomorphic encryption, Payment Channels;
 
 <details>
 
@@ -340,7 +358,7 @@ Sharing data across various Internet of Things (IoT) devices has been a common c
 
 2022 - IEEE Journal on Selected Areas in Communications
 
-
+Topics & Tools: Crowdsensed Data Trading (CDT) , Hierarchical Sharding
 
 <details>
 
@@ -356,7 +374,7 @@ With the development of communications, networking, and information technology, 
 
 2022 - IEEE International Conference on Bioinformatics and Biomedicine
 
-
+Topics & Tools: Consensus optimization, Medical scenarios, Smart contracts
 
 <details>
 
@@ -372,7 +390,7 @@ In the medical scenarios, the demand for secure sharing of medical data and trus
 
 2022 - The Computer Journal
 
-
+Topics & Tools: Data Trading, Arbitration mechanism;
 
 <details>
 
@@ -388,7 +406,7 @@ Data is a kind of important asset in the digital economy and is driving the rise
 
 2022 - IEEE Transactions on Computers
 
-
+Topics & Tools: Federated learning;
 
 <details>
 
@@ -404,7 +422,7 @@ As a new trusted data sharing pattern with privacy protection, the integration m
 
 2022 - Computer Networks
 
-
+Topics & Tools: SDN, Medical Scenario;
 
 <details>
 
@@ -420,7 +438,7 @@ In the past few years, blockchain has proven its necessity and unprecedented pro
 
 2022 - IEEE Transactions on Intelligent Transportation Systems
 
-
+Topics & Tools: Data aggregation, Internet of Vehicles, Privacy Preserving, IBS, Homomorphic Encryption;
 
 <details>
 
@@ -436,7 +454,7 @@ Vehicular sensing is advocated to perform data collection by exploiting a pletho
 
 2022 - Journal of Parallel and Distributed Computing 
 
-
+Topics & Tools: Copyright Protection MinHash, Chameleon Hash, Editable Blocks;
 
 <details>
 
@@ -452,7 +470,7 @@ Data sharing is increasingly popular especially for scientific research and busi
 
 2022 - Software: Practice and Experience
 
-
+Topics & Tools: Consensus optimization, Medical scenarios, Data retrieval optimization, Privacy Preserving, Content extraction signatures;
 
 <details>
 
@@ -468,7 +486,7 @@ Health Internet of Things (Health IoT) has been limited by isolated information 
 
 2022 - IEEE Transactions on Intelligent Transportation Systems 
 
-
+Topics & Tools: Anonymous sharing, Internet of Vehicles, privacy Preserving,  Payment Channels, Time locks;
 
 <details>
 
@@ -484,7 +502,7 @@ Social Internet of Vehicles (SIoV) is an emerging technology in the smart city e
 
 2022 - Journal of Systems Architecture
 
-
+Topics & Tools: Medical scenarios, privacy Preserving, Proxy Re-encryption;
 
 <details>
 
@@ -500,7 +518,7 @@ The cloud-aided sharing of e-healthcare data has great positive significance for
 
 2022 - ACM Transactions on Internet Technology
 
-
+Topics & Tools: 
 
 <details>
 
@@ -516,7 +534,7 @@ The sensing-as-a-service (SaaS) model has been explored to address the challenge
 
 2021 - IEEE Transactions on Services Computing
 
-
+Topics & Tools: Medical scenarios, Data retrieval optimization, privacy-preserving, Searchable encryption, Attribute-based Encryption;
 
 <details>
 
@@ -532,7 +550,7 @@ Electronic Health Record (EHR) and its privacy have attracted widespread attenti
 
 2021 - Journal of Systems Architecture
 
-
+Topics & Tools: IoT, IBS;
 
 <details>
 
@@ -548,7 +566,7 @@ Internet of Things (IoT) is a network convergence of multiple intelligent device
 
 2021 - Journal of Parallel and Distributed Computing
 
-
+Topics & Tools: IoT, IBS;
 
 <details>
 
@@ -564,7 +582,7 @@ The Industrial Internet of Things (IIoT) enhances smart manufacturing process th
 
 2021 - Computer Networks
 
-
+Topics & Tools: Data trading, Data retrieval optimization, Smart contract, Proxy Re-encryption;
 
 <details>
 
@@ -580,7 +598,7 @@ Data are an extremely important asset. Governments around the world encourage bi
 
 2021 - Journal of Systems Architecture
 
-
+Topics & Tools: Access control, Cross-domain, CP-ABE;
 
 <details>
 
@@ -596,7 +614,7 @@ Ciphertext-policy attribute-based encryption(CP-ABE) has been widely studied and
 
 2021 - Computer Networks 
 
-
+Topics & Tools: Medical scenario, Data retrieval optimization, Access control, Searchable Encryption;
 
 <details>
 
@@ -612,7 +630,7 @@ In this paper, we demonstrate the potential of using both blockchain and searcha
 
 2021 - Information Processing and Management
 
-
+Topics & Tools: Medical scenario, Data retrieval optimization, Privacy Preserving, Proxy Re-encryption, Chameleon Hash, Reliability Assessment;
 
 <details>
 
@@ -628,7 +646,7 @@ The sharing of electronic medical records (EMRs) has great positive significance
 
 2021 - Software: Practice and Experience
 
-
+Topics & Tools: SDN, IoT, Consensus Algorithm;
 
 <details>
 
@@ -644,6 +662,8 @@ Sharing trusted data among trusted stakeholders is very important to large-scale
 
 2020 - Computers & Security 
 
+Topics & Tools: Medical scenario, Privacy Preserving, Zero-knowledge Proof, Proxy Re-encryption;
+
 <details>
 
 <summary>Abstract</summary>
@@ -658,7 +678,7 @@ How to alleviate the contradiction between the patient's privacy and the researc
 
 2020 - Computers & Security
 
-
+Topics & Tools: Smart City, IoT;
 
 <details>
 
@@ -674,7 +694,7 @@ The ubiquitous use of Internet of Things (IoT) ranges from industrial control sy
 
 2020 - IEEE Journal on Selected Areas in Communications
 
-
+Topics & Tools: Cloud Environment, Incentive Mechanism;
 
 <details>
 
@@ -690,7 +710,7 @@ The prosperity of cloud computing has driven an increasing number of enterprises
 
 2020 - Journal of Systems Architecture
 
-
+Topics & Tools: Cloud Environment, Access control, ABSC;
 
 <details>
 
@@ -706,6 +726,8 @@ Traditional cloud data sharing schemes have relied on the architecture of the ne
 
 2019 - IEEE Transactions on Information Forensics and Security
 
+Topics & Tools: Data trading, Smart contract, Trusted computing;
+
 <details>
 
 <summary>Abstract</summary>
@@ -720,7 +742,7 @@ Data, a key asset in our data-driven economy, has fueled the emergence of a new 
 
 2019 - Journal of the American Medical Informatics Association 
 
-
+Topics & Tools: Medical scenario;
 
 <details>
 
@@ -736,7 +758,7 @@ Blockchain-based platforms are emerging to provide solutions for technical and g
 
 2019 - Database Systems for Advanced Applications 
 
-
+Topics & Tools: Data trading, Smart contract;
 
 <details>
 
@@ -751,6 +773,8 @@ Crowdsensed Data Trading (CDT) is a novel data trading paradigm, in which each d
 [SHAREChain: Healthcare data sharing framework using Blockchain-registry and FHIR](https://ieeexplore.ieee.org/abstract/document/8983415)
 
 2019 - IEEE International Conference on Bioinformatics and Biomedicine
+
+Topics & Tools: Medical Scenario;
 
 <details>
 
