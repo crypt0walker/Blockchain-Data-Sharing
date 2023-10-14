@@ -1,5 +1,15 @@
 Blockchain Data Sharing Papers: [Notion主页](https://evergreen-heart-8aa.notion.site/fa7814a8a0bf40b1b4150d4af042f5c2?v=5629736f65e74004a03f019e7868b2e5)
 
+---
+
+[Blockchain-Based Privacy-Preserving Positioning Data Sharing for IoT-Enabled Maritime Transportation Systems](https://ieeexplore.ieee.org/abstract/document/9843902)——2023-IEEE Transactions on Intelligent Transportation Systems - CCF B
+
+Topics & Tools: Position sharing, Maritime Transportation, Privacy Preserve, Merkle Commit，Zero Knowledge
+
+---
+
+
+
 | Name                                                         | Topic                                        | Tool                                     | Abstract                                                     | Publisher                                                    | Year |
 | ------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [Blockchain-Based Privacy-Preserving Positioning Data Sharing for IoT-Enabled Maritime Transportation Systems](https://ieeexplore.ieee.org/abstract/document/9843902) | 位置共享, 船舶场景, 隐私保护                 | Merkle Commit, ZK                        | 解决利用区块链进行船舶位置共享时的隐私问题（身份、余额、请求关联信息） 四步： 1. A发布位置信息，通过Merkle Commit隐藏身份与数据之间的关联 2. B支付，通过ZK隐藏账户信息与具体金额 3. B获取，通过ZK证明B已经正确支付 4. A收款，通过ZK账户信息与转账记录 | IEEE Transactions on Intelligent Transportation Systems - CCF B | 2023 |
