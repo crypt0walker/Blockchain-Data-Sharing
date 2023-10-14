@@ -1,5 +1,8 @@
 # Blockchain-based data sharing 
-Blockchain-based data sharing seems to be a current hot research topic, This repository aims to provide a curated list of research papers focusing on Blockchain-based data sharing；
+---
+
+Blockchain-based data sharing seems to be a current hot research topic, This repository aims to provide a curated list of research papers focusing on Blockchain-based data sharing
+
 ---
 [Blockchain-Based Privacy-Preserving Positioning Data Sharing for IoT-Enabled Maritime Transportation Systems](https://ieeexplore.ieee.org/abstract/document/9843902)
 
