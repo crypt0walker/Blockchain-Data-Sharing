@@ -6,7 +6,11 @@ Blockchain Data Sharing Papers: [Notion主页](https://evergreen-heart-8aa.notio
 2023-IEEE Transactions on Intelligent Transportation Systems - CCF B
 
 Topics & Tools: Position Sharing, Maritime Transportation, Privacy Preserve, Merkle Commit, Zero Knowledge
+<details>
 
+<summary>Abstract</summary>
+Data-driven applications play an important role in modern-time maritime transportation systems, for instance in facilitating decision-making relating to communication and safety. One example application is position data sharing between vessels within the maritime Internet of Things (IoT)-enabled context. When designing such applications, we need to also consider how to ensure data accuracy as well as privacy in a large scale deployment. In this paper, we demonstrate the potential of using blockchain to facilitate privacy-preserving data sharing. Specifically, we develop a zero-knowledge proof-based scheme to protect vessel identities while allowing data sharing, and a commitment-based approach to ensure relationship-related privacy in data trading between participants. Our security and performance evaluations demonstrate the utility of the proposed approach.
+</details>
 ---
 
 
