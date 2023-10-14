@@ -5,7 +5,7 @@ Blockchain Data Sharing Papers: [Notion主页](https://evergreen-heart-8aa.notio
 
 2023-IEEE Transactions on Intelligent Transportation Systems - CCF B
 
-Topics & Tools: Position sharing, Maritime Transportation, Privacy Preserve, Merkle Commit， Zero Knowledge
+Topics & Tools: Position Sharing, Maritime Transportation, Privacy Preserve, Merkle Commit, Zero Knowledge
 
 ---
 
