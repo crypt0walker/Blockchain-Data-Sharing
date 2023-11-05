@@ -11,7 +11,6 @@ Blockchain-based data sharing seems to be a current hot research topic, This rep
 Topics & Tools: Position Sharing, Maritime Transportation, Privacy Preserve, Merkle Commit, Zero Knowledge;
 
 <details>
-
 <summary>Abstract</summary>
 Data-driven applications play an important role in modern-time maritime transportation systems, for instance in facilitating decision-making relating to communication and safety. One example application is position data sharing between vessels within the maritime Internet of Things (IoT)-enabled context. When designing such applications, we need to also consider how to ensure data accuracy as well as privacy in a large scale deployment. In this paper, we demonstrate the potential of using blockchain to facilitate privacy-preserving data sharing. Specifically, we develop a zero-knowledge proof-based scheme to protect vessel identities while allowing data sharing, and a commitment-based approach to ensure relationship-related privacy in data trading between participants. Our security and performance evaluations demonstrate the utility of the proposed approach.
 
@@ -176,6 +175,23 @@ Topics & Tools: Consensus optimization;
 <summary>Abstract</summary>
 
 Blockchain offers new ways to the data sharing-based collaboration among IoT devices when a centralized IT infrastructure is unavailable. As one of the critical elements in a Blockchain system, the existing consensus algorithms still have some weaknesses, such as energy-wasting, low throughput, high latency, and increased network communication requirements. In this paper, we focus on designing a highly efficient Blockchain consensus algorithm for data sharing among IoT devices. We present the detailed design of Teegraph, which is a Trusted Execution Environment (TEE) and Directed Acyclic Graph (DAG)-based consensus algorithm. A proof-of-concept implementation of Teegraph is presented. The simulation results demonstrate that TEE usage in Teegraph is more efficient than that of the existing state of the art TEE-based consensus algorithms such as MinBFT and MinZyzzyva. Moreover, Teegraph outperforms Hashgraph, one of the most popular DAG-based consensus algorithms in throughput and latency.
+
+</details>
+
+---
+
+[TrailChain: Traceability of data ownership across blockchain-enabled multiple marketplaces](https://www.sciencedirect.com/science/article/pii/S1084804522000509?casa_token=_bEbDL84JRkAAAAA:gH0M1sfb0OZ2kgx-IFJV4J3utoeL1aArsN_dlBmSUnkV26EjjWHwVA2h4Urf6xlefcYWdal75Oo)
+
+2022 - Journal of Network and Computer Applications
+
+Topics & Tools: Data ownership, Data marketplace, Traceability, Watermarking;
+
+<details>
+
+
+<summary>Abstract</summary>
+
+Today massive amounts of data are generated from Internet-of-Things (IoT) sensors that can be streamed in real-time and utilized for building valuable services. As the demand for data sharing has increased, a new business model of data marketplace has emerged that allows individuals to sell their data to buyers for monetary gain. However, these data marketplaces are prone to various threats such as unauthorized data redistribution/reselling, tampering of data, dishonest data ownership claims, and trade of bogus data. The existing solutions related to data ownership traceability are unable to address the above issues due to ambiguous data ownership, undisclosed data reselling, and dispersal of data ownership across multiple marketplaces. In order to solve the above problems, we propose a novel blockchain framework, TrailChain, that uses watermarking to generate a trusted trade trail for tracking the data ownership spanning across multiple decentralized marketplaces. Our solution includes mechanisms for detecting any unauthorized data reselling within and across marketplaces. We also propose a fair resell payment sharing scheme that ensures the resell revenue is shared with the data owners over authorized reselling. We present a prototype implementation of the system using Ethereum. We perform extensive simulations to demonstrate TrailChain’s feasibility by benchmarking performance metrics including execution gas costs, execution time, latency and throughput.
 
 </details>
 
