@@ -4,6 +4,20 @@
 Blockchain-based data sharing seems to be a current hot research topic, This repository aims to provide a curated list of research papers focusing on Blockchain-based data sharing
 
 ---
+[Secure and Scalable Cross-Domain Data Sharing in Zero-Trust Cloud-Edge-End Environment Based on Sharding Blockchain](https://ieeexplore.ieee.org/abstract/document/10246351)
+
+2023 - IEEE Transactions on Dependable and Secure Computing
+
+Topics & Tools: Cloud computing, Scalability,  sharding ;
+
+<details>
+<summary>Abstract</summary>
+The cloud-edge-end architecture is suitable for many essential scenarios, such as 5 G, the Internet of Things (IoT), and mobile edge computing. Under this architecture, cross-domain and cross-layer data sharing is commonly in need. Considering cross-domain data sharing under the zero-trust model, where each entity does not trust the others, existing solutions have certain problems regarding security, fairness, scalability, and efficiency. Aiming at solving these issues, we conduct the following research. First, a new plaintext checkable encryption scheme is constructed, which can be used on lightweight IoT devices to verify the ciphertext validity sent by a data owner. Second, we propose a new multi-domain cloud-edge-end architecture based on sharding blockchains and design a cross-domain data sharing scheme under the partial trust model to achieve security, scalability, and high performance. Third, a cross-domain data sharing scheme under the zero trust model is further designed, which can ensure the fairness of both parties in data sharing. Fourth, we give a formal security definition and analysis of cross-domain data sharing. Fifth, we conduct a detailed theoretical analysis of the protocol and give an in-depth functional test and performance test, including the throughput and latency of data sharing policy registration and execution.
+
+</details>
+
+---
+
 [Blockchain-Based Privacy-Preserving Positioning Data Sharing for IoT-Enabled Maritime Transportation Systems](https://ieeexplore.ieee.org/abstract/document/9843902)
 
 2023 - IEEE Transactions on Intelligent Transportation Systems
