@@ -4,6 +4,19 @@
 Blockchain-based data sharing seems to be a current hot research topic, This repository aims to provide a curated list of research papers focusing on Blockchain-based data sharing
 
 ---
+[AISChain: Blockchain-Based AIS Data Platform With Dynamic Bloom Filter Tree](https://ieeexplore.ieee.org/abstract/document/9829228)
+
+2023 - IEEE Transactions on Intelligent Transportation Systems
+
+Topics & Tools: Automatic identification system, DBFT;
+
+<details>
+<summary>Abstract</summary>
+Since 2002, hundreds of thousands of vessels have equipped the Automatic Identification System (AIS), which continuously broadcasts its identity and location information for vessel collision avoidance. To utilize these scattered AIS data for further analysis, there are multiple AIS data platforms collecting AIS data from vessels around the world through their satellites and land-based stations. Thus, users can obtain AIS data of vessels from these platforms without dedicated devices. However, existing platforms work in silos, and AIS data is distributed across different platforms, resulting in reduced data availability. In addition, AIS is vulnerable to jamming and spoofing attacks, which can undermine the authenticity of AIS data. In this paper, we propose AISChain, a secure and fast blockchain-based AIS data platform. AISChain adopts consortium blockchain, which only permits those authorized parties (i.e., AIS data providers) to participate in the consensus protocol, and is compatible with current commodity AIS hardware. Since the whole system is co-maintained by multiple authorized parties, AISChain can integrate AIS data resources in a secure way. For avoiding repeated recording of AIS data on the chain, we design the Dynamic Bloom Filter Tree (DBFT) to realize efficient duplication detection in the transaction verification phase. We also propose the dual signature scheme to clarify the AIS data ownership. Moreover, we leverage the geographical location-based blockchain sharding approach to further improve the scalability of AISChain. We implement a prototype of AISChain, and conduct extensive experiments to evaluate the performance of AISChain. Evaluation results show that the search time of DBFT is negligible (4.3 ms) with an extreme low error ratio (0.4%). Meanwhile, AISChain can achieve more than 730 tx/s throughput even when nodes scale to 36. To the best of our knowledge, AISChain is the first work to apply the blockchain technology to secure the AIS data platform.
+</details>
+
+---
+
 [Secure and Scalable Cross-Domain Data Sharing in Zero-Trust Cloud-Edge-End Environment Based on Sharding Blockchain](https://ieeexplore.ieee.org/abstract/document/10246351)
 
 2023 - IEEE Transactions on Dependable and Secure Computing
